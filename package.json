@@ -1,0 +1,15 @@
+{
+  "name": "hirecore-ts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HireCore - refactor pragmatico en TypeScript, arquitectura por capas",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0",
+    "@types/node": "^22.10.0"
+  }
+}
